@@ -1,0 +1,5 @@
+.box1{width:100px; height:100px; background:#f00; transition: opacity 0.5s ease-in;}
+.box1:hover{opacity:0;}
+
+.box2{width:100px; height:100px; background:#f00; transition: opacity 0.5s ;}
+.box2:hover{opacity:0;}
